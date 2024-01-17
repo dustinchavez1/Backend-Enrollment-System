@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pydantic_settings
+jwcrypto
+redis[hiredis]
+httpx
+boto3
+aiosmtpd
+pika
